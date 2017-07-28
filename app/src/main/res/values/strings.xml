@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kudi</string>
+    <string name="version">0.0.1</string>
+    <string name="about_dev">Aplikasi KUDI ini merupakan hasil kerjasama antara PisangMolen DevTeam dan Tim Kreatif Taman Baca Kudi</string>
+
+    <string name="dongeng_1j">Putri Bulan</string>
+    <string name="dongeng_1d">Suatu hari, salah satu teman Hou I menceritakan tentang “Pil Abadi” Hou I langsung mengirim utusannya untuk mendapatkan pil tersebut untuknya dari Ratu Barat. Sang Ratu tinggal sendirian</string>
+
+    <string name="dongeng_2j">Penunggang Paus</string>
+    <string name="dongeng_2d">Pada suatu masa saat pulau Andalas dipimpin oleh Sultan Alam, datanglah raja dari Negeri Penyu bernama Si Meulu, menjumpai Sultan Alam, “Sultan Alam yang perkasa, hamba datang ke isatana tuan untuk mengadukan permasalahan yang sedang kami hadapi”, jelas Raja penyu Si Meulu dengan air mata berlinang.</string>
+
+    <string name="dongeng_3j">Keong Mas</string>
+    <string name="dongeng_3d">Pada zaman dahulu kala. Hiduplah seorang Raja yang bernama Kertamarta. Ia memimpin sebuah kerajaan yang sangat indah dan megah, kerajaan tersebut adalah kerajaan Daha. Raja Kertamarta mempunyai dua orang Putri yang cantik, Dewi Galuh dan Candra Kirana. Kehidupan mereka sangat bahagia dan berkecukupan.</string>
+
+    <string name="dongeng_4j">Kancil dan Harimau</string>
+    <string name="dongeng_4d">Pada suatu hari, terjadilah kelaparan di sebuah pulau yang penduduknya kebanyakan di huni oleh para Harimau. Akhirnya, Raja Harimau mengutus Panglima dan para Prajuritnya untuk pergi ke pulau kecil di sebrang dan kembali dengan membawa banyak makanan.</string>
+
+    <string name="judul1">Ini judul 1</string>
+    <string name="des1">Jodafefhef aefoajfafa fsajs sjaskskaj skjadjks sdjsadjsdsjdkjsadnsjndjsnd jsnd sndsndsandksadksladlksamkdlasdifdsjfds fdisffsa fndsfd fsid</string>
+
+    <string name="judul2">Ini judul 2</string>
+    <string name="des2">disjdijasdklssfhfsdnv jangan ndmskdki jjknksaj kjjnaslownjnfj fkalkafieeufjn fnfasoiuqwdj dafk ijf wijfopwpf ffeiofjeio ff aofpa fef e fjejf efijidjdodedjlfofejflfifi ijfisjaf</string>
+
+    <string name="judul3">ini judul 3</string>
+    <string name="des3">makan di mcd ketemu raja dan wahyu, mereka berdua sedang mempersiapkan diri untuk mengikuti lomba makan dimcd. ada satpam memakai baju hitam</string>
+
+    <string name="judul4">ini judul 4</string>
+    <string name="des4">tadi malam coeq g bisa makan hujan jadinya makan roti, mie, telor, pisang goreng. lah kok makin banyak yaudah tidu aja. besok pagi bangun full sesi, pas mau berangkat semua pending</string>
+</resources>

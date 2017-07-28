@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/image_kegiatan"
+        android:src="@drawable/donate_hand"
+        android:scaleType="centerCrop" />
+
+<!-- <TextView
+     android:layout_width="match_parent"
+     android:layout_height="35dp"
+     android:background="#99000000"
+     android:layout_alignParentBottom="true"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentStart="true"
+     android:id="@+id/judul_kegiatan"
+     android:textSize="15sp"
+     android:textColor="@android:color/white"
+     android:text="Makan - makan"
+     android:textStyle="bold"
+     android:paddingLeft="10dp"
+     android:paddingRight="10dp"
+     android:gravity="center_vertical"/>
+    -->
+
+</RelativeLayout>
